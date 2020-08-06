@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 12/03/2020 06:28
+    Creation date: 05/08/2020 07:30
     */
 
     @font-face {
@@ -37,16 +37,14 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-roof-5:before { content: "\f100"; }
-.flaticon-roof-1:before { content: "\f101"; }
-.flaticon-roof-2:before { content: "\f102"; }
-.flaticon-roof-3:before { content: "\f103"; }
-.flaticon-roof-4:before { content: "\f104"; }
-.flaticon-roof:before { content: "\f105"; }
+    .flaticon-bulldozer:before { content: "\f100"; }
+.flaticon-repair:before { content: "\f101"; }
+.flaticon-hydraulic:before { content: "\f102"; }
+.flaticon-hose:before { content: "\f103"; }
+.flaticon-air-compressor:before { content: "\f104"; }
     
-    $font-Flaticon-roof-5: "\f100";
-    $font-Flaticon-roof-1: "\f101";
-    $font-Flaticon-roof-2: "\f102";
-    $font-Flaticon-roof-3: "\f103";
-    $font-Flaticon-roof-4: "\f104";
-    $font-Flaticon-roof: "\f105";
+    $font-Flaticon-bulldozer: "\f100";
+    $font-Flaticon-repair: "\f101";
+    $font-Flaticon-hydraulic: "\f102";
+    $font-Flaticon-hose: "\f103";
+    $font-Flaticon-air-compressor: "\f104";
